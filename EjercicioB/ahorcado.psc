@@ -255,7 +255,6 @@ Algoritmo JuegoAhorcado
 					Escribir "                  |_|_|_| |__| |_|_|_|"
 					Escribir "                  |_|_|_| |__| |_|_|_| "
 					Escribir "                      |_|      |_| "
-					Escribir "                 jajajaja que manco "
 					Escribir "              Perdiste, intentalo de nuevo"
 					Escribir "¿Te gustaría volver a jugar? (S/N)"
 					Leer verificador2					
