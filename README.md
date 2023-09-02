@@ -10,7 +10,7 @@ Se compone de encontrar un triple de Pitágoras el cual cumpla la siguiente ecua
 
 Realizar el juego del ahorcado con las restricciones de crear un buen diseño para el usuario y texto entendible. El texto a adivinar no debe contener más de tres palabras, y los intentos quedan a criterio de cada uno.
 
-##Video de Explicacion:
+## Video de Explicacion:
 https://youtu.be/vksGCW-QJ9M
 
 
