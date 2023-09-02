@@ -1,9 +1,8 @@
 /******************************************************************************
 
                               Juego del ahorcado.
-        Es un Algoritmo sobre el juego del ahorcado en el cual se le pide una palabra oculta 
-        y una descripcion al jugador 1 y el jugador 2 tiene que encontrar la palabra oculta 
-        con la pista y solo puede cometer 7 fallos
+        Es un Algoritmo para encontrar las triples de pitagoras tanto el cateto 1 
+        como el cateto 2 y la hipotenusa sean menores a 500
         Created by Julio Alexander Alvarado Morales ,Jonathan Joel Istupe Martinez, Kevin Josue Tecu Piche
         on 30/08/23.
 *******************************************************************************/
